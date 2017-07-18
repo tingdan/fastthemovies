@@ -1,0 +1,67 @@
+{
+  "movies": [{
+    "title" : "The Fast and the Furious",
+    "episode_number" : "1",
+    "main_characters" : ["Dominic Toretto", "Brian O'Conner", "Leticia Ortiz", "Mia Toretto", "Johnny Tran"],
+    "description" : "The film is based on an article, titled Racer X, about New York street clubs that race Japanese cars late at night, although the film is set primarily in Los Angeles.",
+    "poster" : "the_fast_episode_1_poster.jpg",
+    "hero_image" : "the_fast_episode_1_hero.jpg"
+  },
+  {
+  "title" : "2 Fast 2 Furious",
+  "episode_number" : "2",
+  "main_characters" : ["Brian O'Conner", "Roman Pearce", "Tej Parker", "Monica Fuentes", "Carter Verone"],
+  "description" : "Watched by undercover Customs Agent Monica Fuentes (Eva Mendes), Brian is caught by US Customs agents and given a deal by FBI Agent Bilkins and Customs Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.",
+  "poster" : "the_fast_episode_2_poster.jpg",
+  "hero_image" : "the_fast_episode_2_hero.jpg"
+},
+{
+"title" : "The Fast and the Furious: Tokyo Drift",
+"episode_number" : "3",
+"main_characters" : ["Sean Boswel", "Neela", "Han Lue", "Twinkie", "Takashi"],
+"description" : "ass",
+"poster" : "the_fast_episode_3_poster.jpg",
+"hero_image" : "the_fast_episode_3_hero.jpg"
+},
+{
+"title" : "Fast & Furious",
+"episode_number" : "4",
+"main_characters" : ["Brian O'Conner", "Roman Pearce", "Tej Parker", "Monica Fuentes", "Carter Verone"],
+"description" : "Watched by undercover Customs Agent Monica Fuentes (Eva Mendes), Brian is caught by US Customs agents and given a deal by FBI Agent Bilkins and Customs Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.",
+"poster" : "the_fast_episode_4_poster.jpg",
+"hero_image" : "the_fast_episode_4_hero.jpg"
+},
+{
+"title" : "Fast Five",
+"episode_number" : "5",
+"main_characters" : ["Brian O'Conner", "Roman Pearce", "Tej Parker", "Monica Fuentes", "Carter Verone"],
+"description" : "Watched by undercover Customs Agent Monica Fuentes (Eva Mendes), Brian is caught by US Customs agents and given a deal by FBI Agent Bilkins and Customs Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.",
+"poster" : "the_fast_episode_5_poster.jpg",
+"hero_image" : "the_fast_episode_5_hero.jpg"
+},
+{
+"title" : "Fast & Furious 6",
+"episode_number" : "6",
+"main_characters" : ["Brian O'Conner", "Roman Pearce", "Tej Parker", "Monica Fuentes", "Carter Verone"],
+"description" : "Watched by undercover Customs Agent Monica Fuentes (Eva Mendes), Brian is caught by US Customs agents and given a deal by FBI Agent Bilkins and Customs Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.",
+"poster" : "the_fast_episode_6_poster.jpg",
+"hero_image" : "the_fast_episode_6_hero.jpg"
+},
+{
+"title" : "Furious 7",
+"episode_number" : "7",
+"main_characters" : ["Brian O'Conner", "Roman Pearce", "Tej Parker", "Monica Fuentes", "Carter Verone"],
+"description" : "Watched by undercover Customs Agent Monica Fuentes (Eva Mendes), Brian is caught by US Customs agents and given a deal by FBI Agent Bilkins and Customs Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.",
+"poster" : "the_fast_episode_7_poster.jpg",
+"hero_image" : "the_fast_episode_7_hero.jpg"
+},
+{
+"title" : "The Fate of the Furious",
+"episode_number" : "8",
+"main_characters" : ["Brian O'Conner", "Roman Pearce", "Tej Parker", "Monica Fuentes", "Carter Verone"],
+"description" : "Watched by undercover Customs Agent Monica Fuentes (Eva Mendes), Brian is caught by US Customs agents and given a deal by FBI Agent Bilkins and Customs Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.",
+"poster" : "the_fast_episode_8_poster.jpg",
+"hero_image" : "the_fast_episode_8_hero.jpg"
+}
+]
+}

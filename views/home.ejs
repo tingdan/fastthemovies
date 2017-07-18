@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <% include partials/head.ejs %>
+  </head>
+  <body>
+
+    <% include partials/header.ejs %>
+
+    <div id="hero-image">
+      <h1 id="hero-title"><%= title %></h1>
+    </div>
+
+    <div class="content-padding clearfix" id="posters-wrapper">
+      <% for (var i = 0; i<movies.length;i++) { %>
+        <div class="poster"><a href="/The_Fast_and_the_Furious/<%= i+1 %>">
+          <img src="/images/<%= movies[i].poster %>" class="img-responsive img-poster">
+
+          <div class="poster-info-overlay">
+            <h3><%= movies[i].title %></h3>
+            <h4>View More <i class="fa fa-arrow"></i></h4>
+          </div>
+        </a>
+        </div>
+      <% } %>
+
+    </div>
+
+    <% include partials/scripts.ejs %>
+  </body>
+</html>
